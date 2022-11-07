@@ -1,2 +1,2 @@
 # torneo-java
-Aplicacion torneo tenis java
+Aplicacion torneo tenis java.
